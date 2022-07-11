@@ -14,7 +14,7 @@ If you installed git you can clone the code to your machine, or download a ZIP o
 
 Download the ZIP from this location, or run the following git command to clone the files to your machine:
 
-link : git@github.com:warriorraushan/newton-flip.git
+link : https://github.com/warriorraushan/newton-flip.git
 
 <> Once the files are on your machine, open the html-css-javascript-getting-started folder in Visual Studio Code.
 
